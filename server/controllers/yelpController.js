@@ -9,10 +9,10 @@ yelpController.postSearch = (req, res) => {
   yelpClient.search({
     term: req.body.term,
     location: req.body.location,
+    sort_by: req.body.sort_by,
+    price: req.body.price,
     limit: 20
   }).then(response => {
-    console.log(response)
-
     res.json({
       yelp: response.jsonBody.businesses
     })
