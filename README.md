@@ -4,7 +4,7 @@ This is the back-end to a two part project using Yelp's Fusion API.
 
 # Getting Started 
 
-When this application is started you must then clone https://github.com/SeeYouSpaceCowboy/yelp-search-reactjs.git for the UI/UX front-end part of the application.
+To clone and run this application, run the following lines of code in your terminal.
 
 ```shell
 
@@ -14,3 +14,5 @@ npm i
 npm start
 
 ```
+
+Once you're done, you must then clone https://github.com/SeeYouSpaceCowboy/yelp-search-reactjs.git for the UI/UX front-end part of the application.
