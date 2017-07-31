@@ -1,4 +1,4 @@
-# Yelp Search - NodeJs Back-end
+# Yelp Search (1/2) - NodeJs Back-end
 
 This is the back-end to a two part project using Yelp's Fusion API.
 
