@@ -15,4 +15,4 @@ npm start
 
 ```
 
-Once you're done, you must then clone https://github.com/SeeYouSpaceCowboy/yelp-search-reactjs.git for the UI/UX front-end part of the application.
+Once you're done, you must then clone the front-end of this project [here](https://github.com/SeeYouSpaceCowboy/yelp-search-reactjs.git) for the UI/UX part of the application. Please make sure to read the Readme.md for the front-end repo for instructions. 
