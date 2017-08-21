@@ -1,18 +1,53 @@
-# Yelp Search (1/2) - NodeJs Back-end
+<p align="center">
+  <img
+    src="where-to-logo.png"
+    alt="WhereTo"
+    width="30" />
+</p>
+<h3 align="center">
+  WhereTo
+</h3>
+<p align="center" style="color: #999;">Yelp Search Client - Backend</p>
 
-This is the back-end to a two part project using Yelp's Fusion API.
+<p align="center">
+  <img
+    src="where-to-shell.png"
+    alt="Screenshot of WhereTo"
+    width="700" />
+    </br>
+    This repo is the back-end for [WhereTo]().
+</p>
 
-# Getting Started 
+## Getting Started with WhereTo
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-To clone and run this application, run the following lines of code in your terminal.
+### Prerequisites
+Things you need to install beforehand:
+* **npm** - Javascript package manager.
+* **nodeJs**
+* **express** - nodeJs framework.
 
-```shell
+### Installing
 
-git clone https://github.com/SeeYouSpaceCowboy/yelp-search-nodejs.git
-cd yelp-search-nodejs
-npm i
-npm start
+Open terminal and run the following lines of code to clone and run this project.
 
-```
+ ```shell
+ $ git clone https://github.com/SeeYouSpaceCowboy/yelp-search-nodejs.git
+ $ cd yelp-search-nodejs
+ $ npm i
+ $ npm start
+ ```
+ This project should now be running locally on port `3005`.
 
-Once you're done, you must then clone the front-end of this project [here](https://github.com/SeeYouSpaceCowboy/yelp-search-reactjs.git) for the UI/UX part of the application. Please make sure to read the Readme.md for the front-end repo for instructions. 
+### Installing the Front-end
+WhereTo consists of a front-end and a back-end. For this project to run you have to have both projects installed and running locally at the same time.
+
+If haven't already, you should now clone and install the front-end of this project; instructions [here](https://github.com/SeeYouSpaceCowboy/yelp-search-reactjs.git).
+
+## Built With
+* Yelp Fusion API
+* Express
+* nodeJs
+
+## Contributors
+WhereTo was built by [Mohammed Chisti](http://mohammedchisti.com).
