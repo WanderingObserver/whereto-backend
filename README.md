@@ -15,7 +15,7 @@
     alt="Screenshot of WhereTo"
     width="700" />
     </br>
-    This repo is the back-end for [WhereTo](https://github.com/SeeYouSpaceCowboy/yelp-search-reactjs.git).
+    This repo is the back-end for <a href="https://github.com/SeeYouSpaceCowboy/yelp-search-reactjs.git">WhereTo</a>.
 </p>
 
 ## Getting Started with WhereTo
