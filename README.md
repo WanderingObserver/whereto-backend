@@ -15,7 +15,7 @@
     alt="Screenshot of WhereTo"
     width="700" />
     </br>
-    This repo is the back-end for [WhereTo]().
+    This repo is the back-end for [WhereTo](https://github.com/SeeYouSpaceCowboy/yelp-search-reactjs.git).
 </p>
 
 ## Getting Started with WhereTo
@@ -45,7 +45,7 @@ WhereTo consists of a front-end and a back-end. For this project to run you have
 If haven't already, you should now clone and install the front-end of this project; instructions [here](https://github.com/SeeYouSpaceCowboy/yelp-search-reactjs.git).
 
 ## Built With
-* Yelp Fusion API
+* [Yelp Fusion API](https://github.com/tonybadguy/yelp-fusion)
 * Express
 * nodeJs
 
