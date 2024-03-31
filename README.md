@@ -33,12 +33,11 @@ Open terminal and run the following lines of code to clone and run this project.
 
  ```shell
  git clone https://github.com/SeeYouSpaceCowboy/yelp-search-nodejs.git
+
 cd yelp-search-nodejs
-```
-```shell
+
 npm i
-```
-```shell
+
 npm start
 ```
  This project should now be running locally on port `3005`.
