@@ -23,14 +23,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 Things you need to install beforehand:
-* **npm** - Javascript package manager.
+* **MacOS** - This app runs on non-mac machines, but instructions need to be adjusted. 
+* **npm** - Javascript package manager. (`pnpm` personally preferred)
 * **nodeJs**
 * **express** - nodeJs framework.
 
 ### Installing
-
+To clone and run this backend server app. Run the following set of instructions. 
 Open terminal and run the following lines of code to clone and run this project.
 
+First clone this repo, using terminal 
  ```shell
  git clone https://github.com/SeeYouSpaceCowboy/yelp-search-nodejs.git
 ```
