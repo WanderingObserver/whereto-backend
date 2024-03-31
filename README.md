@@ -29,13 +29,14 @@ Things you need to install beforehand:
 * **express** - nodeJs framework.
 
 ### Installing
-To clone and run this backend server app. Run the following set of instructions. 
-Open terminal and run the following lines of code to clone and run this project.
+To clone and run this backend server app. Run the following set of instructions.
+Open terminal. 
 
-First clone this repo, using terminal 
+First clone this repo. 
  ```shell
  git clone https://github.com/SeeYouSpaceCowboy/yelp-search-nodejs.git
 ```
+If everything was cloned correctly. Run the following set of instructions. 
 ```shell
 cd yelp-search-nodejs
 
@@ -43,7 +44,7 @@ npm i
 
 npm start
 ```
- This project should now be running locally on port `3005`.
+ This project should now be running locally on port `3005` which can be reached by the url `http://localhost:3005/` on any preferred browser.
 
 ### Installing the Front-end
 WhereTo consists of a front-end and a back-end. For this project to run you have to have both projects installed and running locally at the same time.
