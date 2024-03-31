@@ -32,11 +32,17 @@ Things you need to install beforehand:
 Open terminal and run the following lines of code to clone and run this project.
 
  ```shell
- $ git clone https://github.com/SeeYouSpaceCowboy/yelp-search-nodejs.git
- $ cd whereto-backend
- $ npm i
- $ npm start
- ```
+ git clone https://github.com/SeeYouSpaceCowboy/yelp-search-nodejs.git
+```
+```shell
+cd whereto-backend
+```
+```shell
+npm i
+```
+```shell
+npm start
+```
  This project should now be running locally on port `3005`.
 
 ### Installing the Front-end
