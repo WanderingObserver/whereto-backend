@@ -33,7 +33,8 @@ Open terminal and run the following lines of code to clone and run this project.
 
  ```shell
  git clone https://github.com/SeeYouSpaceCowboy/yelp-search-nodejs.git
-
+```
+```shell
 cd yelp-search-nodejs
 
 npm i
