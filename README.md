@@ -34,7 +34,7 @@ Open terminal.
 
 First clone this repo. 
  ```shell
- git clone [https://github.com/SeeYouSpaceCowboy/yelp-search-nodejs.git](https://github.com/WanderingObserver/whereto-backend.git)
+ git clone https://github.com/WanderingObserver/whereto-backend.git
 ```
 If everything was cloned correctly. Run the following set of instructions. 
 ```shell
